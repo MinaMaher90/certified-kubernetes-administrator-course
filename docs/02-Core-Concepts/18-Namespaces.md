@@ -7,6 +7,11 @@ So far in this course we have created **`Objects`** such as **`PODs`**, **`Deplo
 - This namespace is the **`default`** namespace in kubernetes. It is automatically created when kubernetes is setup initially.
 
   ![ns](../../images/ns.PNG)
+
+- Yo can connect from one namespace to another :
+
+![image](https://github.com/user-attachments/assets/85664590-5533-4ee4-ac2d-b187230e63a8)
+
  
 - You can create your own namespaces as well.
 
